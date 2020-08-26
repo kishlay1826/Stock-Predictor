@@ -1,2 +1,2 @@
-# Stock-Predictor
-Predicting Reliance's stock price using Facebook's time series forecasting procedure, Prophet
+# Stock-Price-Predictor
+A model to predict the future VWAP of Reliance Industries, an Indian multinational conglomerate company. The volume weighted average price (VWAP) is a trading benchmark used by traders that gives the average price a stock has traded at throughout the day, based on both volume and price.  The dataset used to train the model includes the stock price for the past 20 years. It uses Facebook's Prophet for time series analysis.
